@@ -1,0 +1,9 @@
+{
+  "name": "ag-image-resize",
+  "version": "1.0.0",
+  "description": "Serverless app for on-demand image processing",
+  "main": "index.js",
+  "author": "Doug <dgrogg@bonobos.com>",
+  "license": "MIT",
+  "private": false
+}
